@@ -30,9 +30,7 @@ Select your gibberish → press **Ctrl+Alt+C** → it's fixed.
 That's the whole thing.
 
 ### • Knows What You Meant
-It doesn't guess randomly. It actually figures out which layout
-produced the mess and converts it to what you were going for.
-Arabic, Russian, Hebrew, Farsi, Greek, Hungarian — it handles them all.
+It doesn't guess randomly. It actually figures out which layout produced the mess and converts it to what you were going for. Arabic, Russian, Hebrew, Farsi, Greek, Hungarian, etc you name it — handles them all.
 
 ### • Invisible. Silent. Ruthless.
 Lives in your system tray. Uses zero CPU when idle.
