@@ -19,7 +19,22 @@ Select the mess, press your hotkey, and it comes out exactly as intended — as 
 
 ---
 
-## ✨ What it does:
+## What it does:
+
+### • Floating button + Keyboard hotkey:
+It gives you the freedom of using a mouse or keyboard or both.
+<p align="center"><img src="Assets/floating button.png" alt="Floating Action Button Icon" width="100%"></p>
+
+### • Auto language detection:
+It detects the language automatically, you can change the detection method, or change the source languages in the language picker.
+<p align="center"><img src="Assets/Language selector.png" alt="Language Selector Interface" width="100%"></p>
+
+### • Auto layout switch after translation:
+It prevents you from writing with the same wrong layout after it translates, you can turn off the auto switch, and you can make it show a reminder instead.
+
+---
+
+## Why it's the best in the market:
 
 ### • One Hotkey. Done.
 Select your gibberish, press your hotkey, and it's fixed. No retyping. No layout-switching.
@@ -45,4 +60,5 @@ That's it. Go make mistakes confidently.
 
 ---
 
-Built by [William Zafaran](https://t.me/Willstools)
+### 🔗 [Follow me here for more awesome tools](https://t.me/Willstools)
+<p align="center"><img src="Assets/Telegram QR.png" alt="Telegram QR Code" width="100%"></p>
